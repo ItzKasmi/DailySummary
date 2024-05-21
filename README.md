@@ -13,3 +13,5 @@
 - Finished one project course
 ### 5/19/24 - 0:30 Hours
 ### 5/20/24 - 0:00 Hours
+### 5/21/24 - 0:40 hours
+- Worked on JS Project
