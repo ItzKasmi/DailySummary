@@ -12,3 +12,4 @@
 ### 5/18/24 - 1:00 Hours
 - Finished one project course
 ### 5/19/24 - 0:30 Hours
+### 5/20/24 - 0:00 Hours
