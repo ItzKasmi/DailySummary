@@ -16,3 +16,4 @@
 ### 5/21/24 - 0:40 Hours
 - Worked on JS Project
 ### 5/22/24 - 1:00 Hours
+### 5/24/24 - 1:30 Hours
