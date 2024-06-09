@@ -26,3 +26,5 @@
 ### 6/6/24 - 0:00 Hours
 ### 6/7/24 - 1:30 Hours
 ### 6/8/24 - 3:00 Hours
+### 6/9/24 - 3:00 Hours
+- Will be finishing the JavaScript certificate tomorrow. Need to rewrite the last two projects.
