@@ -27,4 +27,5 @@
 ### 6/7/24 - 1:30 Hours
 ### 6/8/24 - 3:00 Hours
 ### 6/9/24 - 5:30 Hours
-- Finished the two projects but one wont pass, waiting to hear back from forums.
+### 6/10/24 - 3:00 Hours
+- Finished freeCodeCamp JavaScript course
