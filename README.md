@@ -28,4 +28,4 @@
 ### 6/8/24 - 3:00 Hours
 ### 6/9/24 - 5:30 Hours
 ### 6/10/24 - 3:00 Hours
-- Finished freeCodeCamp JavaScript course
+### 6/11/24 - 1:00 Hours
